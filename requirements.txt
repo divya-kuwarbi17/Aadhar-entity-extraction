@@ -1,0 +1,9 @@
+torch
+torchvision
+numpy
+easyocr
+opencv-python
+tensorflow
+deepface
+matplotlib
+seaborn
